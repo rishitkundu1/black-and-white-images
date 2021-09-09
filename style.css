@@ -1,0 +1,18 @@
+body{
+      min-height: 100vh;
+      display: flex;
+      align-items: center; 
+      justify-content: center;
+      background-color: rgb(243, 240, 240);
+}
+img{
+      width: 300px;
+      margin: 0 30px;
+      padding: 5px;
+      border-radius: 10px;
+      border: 3px solid black;
+}
+.img{
+      filter: grayscale(100%);
+      -webkit-filter: grayscale(100%);
+}
